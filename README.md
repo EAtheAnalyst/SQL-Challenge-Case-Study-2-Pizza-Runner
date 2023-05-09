@@ -7,9 +7,9 @@ This repository hosts the solutions to the 3rd challenge (Week 3) of the 8 Weeks
 ---
 ## Table of Contents
 - [Business Case](https://github.com/EAtheAnalyst/SQL-Challenge-Case-Study-2-Pizza-Runner/blob/main/README.md#business-case)
-- Entity Relationship Diagram
-- Available Data
-- Case Study Questions
+- [Entity Relationship Diagram](https://github.com/EAtheAnalyst/SQL-Challenge-Case-Study-2-Pizza-Runner/blob/main/README.md#entity-relationship-diagram)
+- [Available Data](https://github.com/EAtheAnalyst/SQL-Challenge-Case-Study-2-Pizza-Runner/blob/main/README.md#Available-Data)
+- [Case Study Questions](https://github.com/EAtheAnalyst/SQL-Challenge-Case-Study-2-Pizza-Runner/blob/main/README.md#Case-Study-Questions)
 
 ## Business Case
 Danny was scrolling through his Instagram feed when something really caught his eye - “80s Retro Styling and Pizza Is The Future!”
@@ -31,7 +31,7 @@ Danny requires further assistance to clean his data and apply some basic calcula
 </details>
 
 ---
-### Case Study Solutions
+## Case Study Solutions
 - [A. Pizza Metrics](https://github.com/EAtheAnalyst/SQL-Challenge-Case-Study-2-Pizza-Runner/blob/6851e3cf413f4a3be2e9b81f1c0ac147292f6cce/A.%20Pizza%20Metrics.md)
 - [B. Runner and Customer Experience](https://github.com/EAtheAnalyst/SQL-Challenge-Case-Study-2-Pizza-Runner/blob/6851e3cf413f4a3be2e9b81f1c0ac147292f6cce/B.%20Runner%20and%20Customer%20Experience.md)
 
