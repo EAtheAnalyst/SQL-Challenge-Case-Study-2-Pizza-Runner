@@ -6,7 +6,7 @@ This repository hosts the solutions to the 3rd challenge (Week 3) of the 8 Weeks
 
 ---
 ## Table of Contents
-- [Business Case](https://github.com/EAtheAnalyst/SQL-Challenge-Case-Study-2-Pizza-Runner/main/README.md#business-case)
+- [Business Case](https://github.com/EAtheAnalyst/SQL-Challenge-Case-Study-2-Pizza-Runner/blob/main/README.md#business-case)
 - Entity Relationship Diagram
 - Available Data
 - Case Study Questions
@@ -23,7 +23,6 @@ Danny requires further assistance to clean his data and apply some basic calcula
 ---
 ## Entity Relationship Diagram
 ![](Images/E1.png)
-
 
 ---
 ## Available Data
