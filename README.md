@@ -1,5 +1,4 @@
 # Case-Study-2-Pizza-Runner
-Danny
 ![](Images/P1.png)
 
 ---
